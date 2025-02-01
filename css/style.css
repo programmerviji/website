@@ -1,0 +1,48 @@
+.center{
+    text-align: center;
+}
+
+.same{
+    text-align: justify;
+}
+
+.space{
+    padding-left: 1cm;
+    padding-right: 1cm;
+}
+
+.font{
+    font-weight: bolder;
+    font-size: medium;
+}
+
+.mycolor1{
+    color:aqua;
+}
+
+p{
+    text-indent: 1cm;
+}
+
+body{
+    background-color:darksalmon;
+
+}
+
+.para{
+    line-height: 0.5cm;
+    word-spacing: 0.1cm;
+    letter-spacing: 0.1cm;
+}
+
+.text{
+    text-transform:capitalize;
+}
+
+.logspace{
+    margin: 120px;
+}
+
+.under{
+    text-decoration: underline;
+}
